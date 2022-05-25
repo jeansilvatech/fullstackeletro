@@ -6,7 +6,7 @@
 </div>
 <hr>
 Projeto de site iniciado no curso de desenvolvimento web da Recode e melhorado utilizando o Mobirise.
-Link do projeto: https://jeanpsilva10.github.io/fullstackeletro/fullstackeletro/index.html
+
 
 ![image](https://user-images.githubusercontent.com/23384348/166516123-dbbfe057-ed69-4ef8-a97f-c03f2f35ba90.png)
 ![image](https://user-images.githubusercontent.com/23384348/166516223-8572aca8-3577-4e34-8a8d-ad301c5b4404.png)
